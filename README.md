@@ -5,11 +5,14 @@
 <img src="https://komarev.com/ghpvc/?username=darkill-yt&label=Nombre%20de%20vues" alt="Darkill" />
 <h1>Me contacter:</h1>
 mail: <a href="mailto:mail.darkill@gmail.com" target="_blank">mail.darkill@gmail.com</a>  <br>
-discord: @darkill3671
-
+discord: @darkill3671  <br>
+  <br>
 <h1>Mes projets:</h1>
 (soon)  <br>
-<picture>
+  <br>
+<h1>Mes statistiques:</h1>
+<div>
+  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=darkill-yt&show_icons=true&theme=algolia"
     media="(prefers-color-scheme: dark)"
@@ -20,3 +23,8 @@ discord: @darkill3671
   />
   <img src="https://github-readme-stats.vercel.app/api?username=darkill-yt&show_icons=true&theme=dark" />
 </picture>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkill-yt&layout=compact" alt="Darkill" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darkill&layout=compact" alt="Darkill" />
+  </div>
+</div>
