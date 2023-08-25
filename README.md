@@ -23,7 +23,7 @@ twitter: <a href="https://twitter.com/darkill59" target="_blank">@darkill59</a>
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=darkill-yt&show_icons=true&theme=algolia"
+      srcset="https://github-readme-stats.vercel.app/api?username=darkill-yt&show_icons=true&theme=algolia&hide=prs"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=darkill-yt&show_icons=true&theme=dark" />
