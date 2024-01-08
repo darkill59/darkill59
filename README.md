@@ -29,7 +29,7 @@ twitter: <a href="https://twitter.com/darkill59" target="_blank">@darkill59</a>
     <img src="https://github-readme-stats.vercel.app/api?username=darkill-yt&show_icons=true&theme=dark" />
   </picture>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkill-yt&layout=compact" alt="Darkill" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=darkill&layout=compact" alt="Darkill" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkill-yt&layout=compact" alt="Darkill" />
   </div>
 </div>
