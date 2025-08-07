@@ -10,7 +10,7 @@
 
 <h1>Me contacter:</h1>
 mail: <a href="mailto:mail.darkill@gmail.com" target="_blank">mail.darkill@gmail.com</a>  <br>
-discord: <a href="https://discordapp.com/users/817814016096206879>@Darkill</a>  <br>
+discord: <a href="https://discordapp.com/users/817814016096206879">@Darkill</a>  <br>
 twitter: <a href="https://twitter.com/darkill59" target="_blank">@darkill59</a>
   <br>
 <h1>Mes projets:</h1>
