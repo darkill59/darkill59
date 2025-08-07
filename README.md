@@ -1,7 +1,7 @@
 <!--<img src="./content/banniere.png" alt="banner" style="width: 100%; height: 100px; object-fit: cover;" />-->
 <h1 align="center">Présentation</h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&separator=%3C&lines=D%C3%A9veloppeur++full-stack + et+de+bot+discord%3CPassionn%C3%A9+de+d%C3%A9veloppement%3CForza+scud%C3%A9ria+ferrari+;)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&separator=%3C&lines=D%C3%A9veloppeur+full-stack+et+de+bot+discord%3CPassionn%C3%A9+de+d%C3%A9veloppement%3CForza+scud%C3%A9ria+ferrari+;)" alt="Typing SVG" />
 </p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=darkill59&label=Nombre%20de%20vues" alt="Darkill" />
